@@ -1,2 +1,2 @@
 # codewars
-Solutions to "codewars.com" exercises in Ruby
+My solutions to "codewars.com" exercises in Ruby. Respository used to keep track of my knowledge in Ruby.
