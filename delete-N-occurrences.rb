@@ -22,4 +22,4 @@ def delete_nth(order,max_e)
   result
 end
 
-#Many more elegant solutions out there. gotta keep on learning... :)
+# There are many more elegant solutions out there. gotta keep on learning... :)
